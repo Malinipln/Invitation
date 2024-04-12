@@ -1,0 +1,48 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('https://media.istockphoto.com/id/1398727787/vector/banner-web-template-abstract-blue-and-golden-curved-lines-overlapping-layer-design-on-dark.jpg?s=612x612&w=0&k=20&c=5JXpixU4jQV8VuBD8JvhtSlbtbxQwk1Z6DaLmI6SDMU=');
+      background-size:cover;
+      background-attachment:fixed;
+      display: flex;
+      justify-content: center;
+     
+         }
+
+    .container {
+      max-width: 800px;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      color: #F7A928;
+    }
+
+    p {
+      color:  #64FAB4;
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      color:#FF6666;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin-top: 10px;
+    }
+
+    li {
+      color:  #64FAB4;
+      margin-bottom: 5px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+ 
